@@ -1,4 +1,4 @@
-"""Implementation of the k-means clusterng algorithm.
+"""Implementation of the k-means clustering algorithm.
 
 k-means clustering is a method of vector quantization that aims to partition
 n observations into k <= n clusters, where each observation's value is
